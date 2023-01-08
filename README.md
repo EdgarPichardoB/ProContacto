@@ -221,7 +221,7 @@ Es una solución integral de servicio al cliente, esta herramienta enruta en tie
 15.  **¿Para qué sirve la funcionalidad Chatter?**</br>
 Sirve para ver noticias en tiempo real, perfiles, grupos y para compartir información y colaborar.
 
-:ballot_box_with_check: **Conceptos generales* </br>
+:ballot_box_with_check: **Conceptos generales** </br>
 
 1.	**¿Qué significa SaaS?**</br>
 Software as a Service, es una forma de poner a disposición softwares y soluciones de tecnología por medio de internet, como un servicio.
