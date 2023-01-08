@@ -66,8 +66,7 @@ Aquí un ejemplo muy simple de una estructura en XML: </br>
 <contenido>Estructura de datos</contenido>
 </nota>
 ```
-En JSON el formato de intercambio de información es mas legible y por lo tanto mas entendible por el ser humano y de igual manera es igual de eficiente que XML. </br>
-Aquí el mismo ejemplo de XML pero en JSON: </br>
+En JSON el formato de intercambio de información es mas legible y por lo tanto mas entendible por el ser humano y de igual manera es igual de eficiente que XML. </br> Aquí el mismo ejemplo de XML pero en JSON: </br>
 
 ```JSON
 {
@@ -297,7 +296,7 @@ No, pero Salesforce Billing puede complementar las plataformas de planificación
 
 ![image](https://user-images.githubusercontent.com/121767595/211183849-a897a4dc-9f72-46f6-be7a-c160b183defc.png)
 
-8.Aquí se muestra la lista de cuentas con las columnas que se solicitaron, falto un campo, pero solo permite 15 campos, también para que solo se mostraran las cuentas que se importaron se agregó un filtro donde el campo que filtramos fue cualquier campo personalizado que se agregó, de esta manera nos arrojó solo las cuentas recién importadas.
+8. Aquí se muestra la lista de cuentas con las columnas que se solicitaron, falto un campo, pero solo permite 15 campos, también para que solo se mostraran las cuentas que se importaron se agregó un filtro donde el campo que filtramos fue cualquier campo personalizado que se agregó, de esta manera nos arrojó solo las cuentas recién importadas.
 
 ![image](https://user-images.githubusercontent.com/121767595/211184127-a1f1d8a4-9386-42e9-9e51-a2bc0cecb039.png)
 
