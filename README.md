@@ -126,8 +126,7 @@ https://trailhead.salesforce.com/users/norozco3/trailmixes/introduccion </br>
 
 ![Ejercicio4](https://user-images.githubusercontent.com/121767595/211182868-4bf68bfe-3246-4978-b4de-9f811aef1521.PNG)
 
-
-:mag_right: [**Perfil de Trailhead**](https://trailblazer.me/id/edgarp) :mag:
+:mag_right: [**Perfil de Trailhead**](https://trailblazer.me/id/edgarp) :mag: 
 
 
 ## Ejercicio 5
@@ -274,7 +273,7 @@ No, pero Salesforce Billing puede complementar las plataformas de planificación
 
 **_Paso a paso del proceso para mostrar cómo fue realizado_**
 
-**importación de cuentas**
+**Importación de cuentas**
 
 1. Se analizo el archivo para ver que campos faltaban en el objeto account para después agregarlos.
 2. Se limpio el documento y se guardó como archivo csv para la importación.
@@ -302,7 +301,7 @@ No, pero Salesforce Billing puede complementar las plataformas de planificación
 
 ![image](https://user-images.githubusercontent.com/121767595/211184127-a1f1d8a4-9386-42e9-9e51-a2bc0cecb039.png)
 
-**importación de oportunidades**
+**Importación de oportunidades**
 
 1. Como en el anterior proceso analizamos, limpiamos el archivo y se guardó como csv.
 2. Para la importación primero necesitamos los id de las cuentas que importamos, así que exportamos las cuentas.
