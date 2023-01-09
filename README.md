@@ -140,11 +140,11 @@ https://trailhead.salesforce.com/users/norozco3/trailmixes/introduccion </br>
 | 3 | Contact       | Representa un contacto, que es una persona asociada a una cuenta. Este objeto guarda como bien lo dice datos del contacto.|
 | 4 | Opportunity   | Representa una oportunidad, que es una venta o trato pendiente. Este objeto guarda datos para la administración sobre una venta o trato pendiente también se puede sincronizar este objeto con una cotización.|
 | 5 | Product       | Representa un servicio o artículo que la empresa vende a los clientes. Este objeto guardar los datos de varios campos que se usan solo para programaciones de cantidad e ingresos.|
-| 6  | PriceBook    | Representa la lista de productos y sus precios por unidad. Este objeto guarda los datos de precios que contiene la lista de productos que vende la organización.|
+| 6 | PriceBook     | Representa la lista de productos y sus precios por unidad. Este objeto guarda los datos de precios que contiene la lista de productos que vende la organización.|
 | 7 | Quote         | Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente. Este objeto guarda los datos para realizar un seguimiento de los productos vendidos a los clientes.|
-| 8  | Asset       | Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente. Este objeto guarda los datos para realizar un seguimiento de los productos vendidos a los clientes.|
-| 9  | Case         | Representa un caso, que es un asunto o problema del cliente. Este objeto guarda asuntos o problemas del cliente.|
-| 10  | Article     | Este objeto se puede utilizar para asociar un artículo con categorías de datos o para consultar las selecciones de categoría de un artículo.|
+| 8 | Asset         | Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente. Este objeto guarda los datos para realizar un seguimiento de los productos vendidos a los clientes.|
+| 9 | Case          | Representa un caso, que es un asunto o problema del cliente. Este objeto guarda asuntos o problemas del cliente.|
+| 10| Article       | Este objeto se puede utilizar para asociar un artículo con categorías de datos o para consultar las selecciones de categoría de un artículo.|
 
 **Diagrama**
 
